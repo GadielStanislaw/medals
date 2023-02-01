@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="882a9b44-91fe-4abc-88fa-1a74f8743c8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML File.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/THL01_Staged_Changed_Files/bronze.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/THL01_Staged_Changed_Files/medals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/THL_GIT_Introduction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/THL01_Staged_Changed_Files/medals.html" beforeDir="false" afterPath="$PROJECT_DIR$/THL01_Staged_Changed_Files/medals.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
